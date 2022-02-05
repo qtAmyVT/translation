@@ -1,0 +1,13 @@
+{
+    "title": "Reklam Yönetim",
+    "description": "Devam etmek için bir reklam alanı seçin.",
+    "editing": "Düzenlenen Alan:",
+    "form_Name": "İsim",
+    "form_Icon": "İkon",
+    "form_Description": "Açıklama",
+    "form_Type": "Tip",
+    "form_Link": "Bağlantı",
+    "form_Button Text": "Buton Yazısı",
+    "form_botId": "Bot Kimliği",
+    "returnSelection": "Seçime geri dön"
+}
