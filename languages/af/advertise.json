@@ -1,0 +1,13 @@
+{
+    "title": "Bestuur Adverteer",
+    "description": "Kies jou advertensiegleuf om voort te gaan met verwerking.",
+    "editing": "Redigeringsgleuf:",
+    "form_Name": "Naam",
+    "form_Icon": "Ikoon",
+    "form_Description": "Description",
+    "form_Type": "Tik",
+    "form_Link": "Skakel",
+    "form_Button Text": "Knoppie teks",
+    "form_botId": "Bot Id",
+    "returnSelection": "Terugkeer Seleksie"
+}
