@@ -1,0 +1,10 @@
+{
+    "Error_APInotWorking": "L'API ne fonctionne pas pour le moment, réessayez plus tard. Vous pouvez {{discord}} pour plus d'informations.",
+    "Text_404_1":"Nous n'avons pas trouvé la page que vous cherchez.",
+    "Text_404_2":"Nous savons qu'elle est ici quelque part.",
+    "Text_403":"Tu n'as pas la permission d'accéder à cette page.",
+    "Text_401":"Tu dois être connecté pour accéder à cette page.",
+    "Text_500_1":"Un problème est survenu. Réessayez plus tard.",
+    "Text_500_2":"Nous savons que ce sera bon.",
+    "Text_501":"Un bloqueur de publicité a été détecté!"
+}
