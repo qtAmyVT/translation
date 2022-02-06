@@ -2,8 +2,8 @@
   "Add": "Add",
   "Remove": "Remove",
   "Delete": "Delete",
-  "Decline": "Decline",
   "Cancel": "Cancel",
+  "Decline": "Decline"
   "Edit": "Edit",
   "AddBot": "Add Bot",
   "AdminPanel": "Admin Panel",
@@ -31,7 +31,7 @@
   "PrevStep": "Prev Step",
   "NextStep": "Next Step",
   "Server": "Server",
-  "Find": "Bul",
+  "Find": "Find",
   "NoOptions": "No Options",
   "SupportServer": "Support Server",
   "Save": "Save",
@@ -49,8 +49,8 @@
   "Sponsors": "Our Sponsors",
   "Developers": "Developers",
   "JoinDiscord": "Join Discord",
-  "Invites": "Davetler",
-  "Visitors": "Ziyaretçiler",
+  "Invites": "Invites",
+  "Visitors": "Visitors",
 
   "Bot_Verified": "Verified Bot",
 
