@@ -38,10 +38,10 @@
   "Table_Text_Servers": "Serveurs",
   "Table_Text_Operation": "Opération",
 
-  "Table_Operation_toTestServer": "to Test Server",
-  "Table_Operation_toMainServer": "to vCodes Server",
-  "Table_Operation_Certify": "Certify",
-  "Table_Operation_Decertify": "De-Certify",
-  "Table_Operation_Confirm": "Confirm",
-  "Table_Operation_Decline": "Decline"
+  "Table_Operation_toTestServer": "au serveur de Test",
+  "Table_Operation_toMainServer": "au serveur de vCode",
+  "Table_Operation_Certify": "Certifier",
+  "Table_Operation_Decertify": "Dé-Certifier",
+  "Table_Operation_Confirm": "Confirmer",
+  "Table_Operation_Decline": "Refuser"
 }
