@@ -1,0 +1,10 @@
+{
+    "Error_APInotWorking": "API not working for now, try again later. You can {{discord}} for more information",
+    "Text_404_1":"We could not find the page you were looking for.",
+    "Text_404_2":"We sure it's in here somewhere.",
+    "Text_403":"You dont have permission to access this page.",
+    "Text_401":"You must be logged in to access this page.",
+    "Text_500_1":"Something went wrong, try again later.",
+    "Text_500_2":"We're sure it will be fine.",
+    "Text_501":"Adblock detected!"
+}
