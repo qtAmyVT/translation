@@ -20,7 +20,7 @@
   "Permissions_Text_DeleteData": "Skrap data",
   "Permissions_Text_RemovePermissions": "Verwyder toestemmings",
   "Permissions_Text_AddPermissions": "Voeg toestemmings by",
-  "Permissions_Text_TypeConfirm": "Tik <b>BEVESTIG</b> om die verwydering van gebruikersdata te bevestig.",
+  "Permissions_Text_TypeConfirm": "Tik <b>CONFIRM</b> om die verwydering van gebruikersdata te bevestig.",
   "Permissions_Text_EnterUserID": "Voer gebruiker-ID in",
   "Permissions_Text_SelectPermission": "Kies 'n toestemming.",
 
