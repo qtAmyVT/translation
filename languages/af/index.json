@@ -1,10 +1,10 @@
 {
-    "Description":"Do you want to expand and improve your Discord bot? Here vCodes are here for you!",
-    "Search_Placeholder":"Explore the bots by name and description...",
-    "Title_TrendingBots":"Trending Bots",
-    "Title_LastAddedBots":"Recently Added Bots",
-    "Title_CertifiedBots":"Certified Bots",
-    "Description_TrendingBots":"Most popular bots this month.",
-    "Description_LastAddedBots":"Quickly see recently approved bots by votes.",
-    "Description_CertifiedBots":"Quickly see certified bots by votes."
+    "Description":"Wil jy jou Discord Bot uitbrei en verbeter? Hier is vCodes hier vir jou!",
+    "Search_Placeholder":"Verken die bots volgens naam en beskrywing...",
+    "Title_TrendingBots":"Gewildste Bots",
+    "Title_LastAddedBots":"Onlangs bygevoeg Bots",
+    "Title_CertifiedBots":"Gesertifiseerde Bots",
+    "Description_TrendingBots":"Gewildste bots vandeesmaand",
+    "Description_LastAddedBots":"Sien vinnig onlangs goedgekeurde bots deur stemme.",
+    "Description_CertifiedBots":"Sien vinnig gesertifiseerde bots deur stemme."
 }
