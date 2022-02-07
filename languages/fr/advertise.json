@@ -1,0 +1,13 @@
+{
+    "title": "Gérer Les Publicités",
+    "description": "Sélectionner la slot de la publicité.",
+    "editing": "Modifier la slot:",
+    "form_Name": "Nom",
+    "form_Icon": "Icon",
+    "form_Description": "Description",
+    "form_Type": "Type",
+    "form_Link": "Lien",
+    "form_Button Text": "Texte du boutton",
+    "form_botId": "ID du bot",
+    "returnSelection": "Retour"
+}
