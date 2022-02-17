@@ -20,14 +20,14 @@
   "Permissions_Text_DeleteData": "Delete Data",
   "Permissions_Text_RemovePermissions": "Remove Permissions",
   "Permissions_Text_AddPermissions": "Add Permissions",
-  "Permissions_Text_TypeConfirm": "Type <b>CONFIRM</b> to confirm deleting user data.",
+  "Permissions_Text_TypeConfirm": "Please type <b>CONFIRM</b> to confirm.",
   "Permissions_Text_EnterUserID": "Enter User ID",
   "Permissions_Text_SelectPermission": "Select a permission.",
 
   "Partners_Text_AboutToDeleteThisPartner": "You're about to delete this partner:",
 
   "Bots_Text_AboutToDeclineThisBot": "You're about to decline this bot:",
-  "Bots_Text_WhyDidYouDeclineThisBot": "Why do you decline this bot?",
+  "Bots_Text_WhyDidYouDeclineThisBot": "Why do you declined this bot?",
   "Bots_Text_AboutToDecertifyThisBot": "You're about to de-certify this partner:",
   "Bots_Text_WhyDidYouDecertifyThisBot": "Why do you de-certified this bot?",
 
