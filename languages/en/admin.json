@@ -27,9 +27,9 @@
   "Partners_Text_AboutToDeleteThisPartner": "You're about to delete this partner:",
 
   "Bots_Text_AboutToDeclineThisBot": "You're about to decline this bot:",
-  "Bots_Text_WhyDidYouDeclineThisBot": "Why did you decline this bot?",
+  "Bots_Text_WhyDidYouDeclineThisBot": "Why do you decline this bot?",
   "Bots_Text_AboutToDecertifyThisBot": "You're about to de-certify this partner:",
-  "Bots_Text_WhyDidYouDecertifyThisBot": "Why did you de-certified this bot?",
+  "Bots_Text_WhyDidYouDecertifyThisBot": "Why do you de-certified this bot?",
 
   "Table_Text_Overview": "Overview",
   "Table_Text_Description": "Description",
